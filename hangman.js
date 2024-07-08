@@ -137,22 +137,3 @@ function beginTheGame() {
     mistakesCount.style.opacity = "1"
     mistakesCount.style.margin = "0"
 }
-
-
-
-
-
-
-
-
-
-
-
-// shuffle
-// const shuffledChildren = shuffle(children)
-// // Clear the parent container
-// while (parent.firstChild) {
-//     parent.removeChild(parent.firstChild);
-// }
-// // Append the shuffled elements
-// shuffledChildren.forEach(child => parent.appendChild(child));
